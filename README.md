@@ -1,7 +1,5 @@
 ## Kaggle實戰
 
-This is a repository for all my Kaggle scripts.
-
 ### 1. Titanic: Machine Learning from Disaster
 目的：預測鐵達尼號沉船後哪些乘客會存活下來。更多競賽說明點選[這裡](https://www.kaggle.com/c/titanic)。
 
